@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Catlord923
-- 🌱 I’m currently working on a C# application
+- 🌱 I’m currently working on a JavaFX application
